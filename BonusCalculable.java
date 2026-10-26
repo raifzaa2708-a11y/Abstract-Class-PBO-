@@ -1,0 +1,3 @@
+interface BonusCalculable {
+    double hitungBonus();
+}
